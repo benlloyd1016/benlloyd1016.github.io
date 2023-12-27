@@ -1,6 +1,6 @@
 to push all changes:
 git add .
-git commit -m "Your commit message"
+git commit -m "Routine update"
 git push
 
 My url: 

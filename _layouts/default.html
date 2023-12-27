@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page.title | default: site.title }}</title>
+    <!-- Add any additional head elements here (CSS links, etc.) -->
+    <link rel="stylesheet" href="/assets/css/main.css">
+</head>
+
+<body>
+    <nav>
+        <ul>
+            <li><a href="/">Home</a></li>
+            <li><a href="/about/">About</a></li>
+            <li>
+                <select onchange="location = this.value;">
+                    <option value="/">By Day</option>
+                    <option value="/cheese.html">Cheese</option>
+                    <!-- Add other categories here -->
+                  </select>
+            </li>
+        </ul>
+    </nav>
+
+    <!-- Content of the page will be inserted here -->
+    <div class="content">
+        {{ content }}
+    </div>
+
+    <!-- You can add footer or additional content here -->
+</body>
+
+</html>

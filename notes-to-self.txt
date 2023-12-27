@@ -1,0 +1,10 @@
+to push all changes:
+git add .
+git commit -m "Your commit message"
+git push
+
+My url: 
+https://benlloyd1016.github.io/
+
+To test locally:
+bundle exec jekyll serve

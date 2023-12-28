@@ -5,11 +5,13 @@
 layout: default
 ---
 
-# About me
+# Ben Lloyd
+
+## About me
 
 Hi there! My name is Ben. I am a husband, son, brother, and more, based in Elkins, West Virginia.
 
-# What am I doing now?
+## What am I doing now?
 
 Starting the first of 2024, I will be diving into an [80 day self-study in natural cheesemaking](/cheese.html).
 

@@ -8,3 +8,5 @@ https://benlloyd1016.github.io/
 
 To test locally:
 bundle exec jekyll serve
+
+I always need to type cd benlloyd1016.github.io to change the directory before pushing to github or hosting locally.

@@ -19,7 +19,5 @@ Winter has arrived to my area, and I take every opportunity to get up on a mount
 
 We bought our first house in 2023. In its 117 year, the house is full of quirks, most of them good! I am enjoying the opportunity to work with my hands on small projects around the house and yard.
 
-I continue to provide civil engineering services on a variety of projects in the Upper Ohio Valley region.
-
 *Last updated December 27th, 2023*
 

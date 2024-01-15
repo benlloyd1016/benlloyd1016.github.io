@@ -75,3 +75,19 @@ nav select option {
     background-color: white; /* Background color for options */
     color: black; /* Text color for options */
 }
+
+.image-with-description {
+    text-align: center; /* Center align the content */
+    margin-bottom: 20px; /* Add some space below each image and description */
+}
+
+.image-with-description img {
+    width: 100%; /* Adjust as needed */
+    height: auto; /* Maintain aspect ratio */
+}
+
+.image-with-description .description {
+    color: #666; /* Description text color */
+    font-size: 0.8em; /* Smaller font size for the description */
+    margin-top: 5px; /* Space between the image and the description */
+}

@@ -5,19 +5,21 @@
 layout: default
 ---
 
-# Ben Lloyd
+# benlloyd.blog
 
 ## About me
 
-Hi there! My name is Ben. I am a husband, son, brother, and more, based in Elkins, West Virginia.
+Hi there! My name is Ben. Thanks for visiting my corner of the internet where I share what I am up to for my friends and family.
 
 ## What am I doing now?
 
-Starting the first of 2024, I will be diving into an [80 day self-study in natural cheesemaking](/cheese.html).
+Winter has arrived to my area, and I take every opportunity to get up on a mountain for cross country skiing. When there isn't skiable snow, I'm in my running shoes or on my bike enjoying the quiet winter woods.
 
-Winter has arrived to my area, and I take every opportunity to get up on a mountain for cross country skiing. When there isn't snow, I'm in my running shoes enjoying the quiet winter woods.
+<img src="/assets/images/2024-01-15-bike-snow.jpg" alt="Description" style="width: 100%; height: auto;">
 
-We bought our first house in 2023. In its 117 year, the house is full of quirks, most of them good! I am enjoying the opportunity to work with my hands on small projects around the house and yard.
+We bought our first house in 2023. In its 118th year, the house is full of quirks, most of them good! I am enjoying working with my hands on small projects around the house and yard.
 
-*Last updated December 27th, 2023*
+This winter, I am diving into a [self-study in cheesemaking](/cheese.html). Read along if you would like!
+
+*Last updated January 15th, 2024*
 

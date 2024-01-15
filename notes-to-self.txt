@@ -1,4 +1,5 @@
 to push all changes:
+cd benlloyd1016.github.io
 git add .
 git commit -m "Routine update"
 git push
@@ -10,3 +11,9 @@ To test locally:
 bundle exec jekyll serve
 
 I always need to type cd benlloyd1016.github.io to change the directory before pushing to github or hosting locally.
+
+Formatting .md files:
+*italics*
+#heading 1
+##heading 2
+- List

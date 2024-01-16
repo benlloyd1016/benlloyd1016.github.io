@@ -7,7 +7,8 @@ git push
 My url: 
 https://benlloyd1016.github.io/
 
-To test locally:
+to test locally:
+cd benlloyd1016.github.io
 bundle exec jekyll serve
 
 I always need to type cd benlloyd1016.github.io to change the directory before pushing to github or hosting locally.

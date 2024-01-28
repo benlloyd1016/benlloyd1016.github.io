@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Title"
+title:  "A Walk in the Woods"
 date:   2024-01-28
 categories: uncategorized
 ---
@@ -22,7 +22,7 @@ After a morning of walking along the footpath well-worn by other hikers, hitting
 
 A half hour goes by, and the little blue dot on my GPS app has hardly moved. Still, despite my scratched knees and the wet snow sliding into the sides of my shoes, I am having fun. I notice I sometimes get into a flow state where my arms, legs, and head all seem to know exactly where to place themselves to weave my body through the woody maze. My mind sometimes snaps to observing the complexity of these movements and is thankful that they seem to know what to do. My movements are much more complex than when I am walking in a straight line down a sidewalk: arms loosely swaying, thighs lightly lifting my feet back and forth like a pendulum. In the rhododendren, it goes like this: crouch, bend, slither, pivot, extend, pull, crawl, hop, twist. The deliberateness and attention movement here requires feels at times unpleasant, but that feeling of unpleasantness may be only the feeling of having to actually be present.
 
-We find some cool sights along the way. Pillars of ice have formed on the rocky outer creekbank, perfectly clear, like the ice in a whiskey glass. I chuck a chunk of it into the creek. "Chuck a chunk!" I holler, breaking from my usual trail ettiquite of being quiet and not throwing things. There is a striking view of the creek cascading over a drop in the creek bed, and I consider how most people see this waterfall from the trail on the other side of the creek and wonder whose view is better, like the Canadian and American sides of Niagara.
+We find some cool sights along the way. Pillars of ice have formed on the rocky outer creekbank, perfectly clear, like the ice in a whiskey glass. I chuck a chunk of it into the creek. "Chuck a chunk!" I holler, breaking from my usual trail ettiquete of being quiet and not throwing things. There is a striking view of the creek cascading over a drop in the creek bed, and I consider how most people see this waterfall from the trail on the other side of the creek and wonder whose view is better, like the Canadian and American sides of Niagara.
 
 <div class="image-with-description">
     <img src="/assets/images/2024-01-28-rhodos-2.jpg" alt="Image Description">

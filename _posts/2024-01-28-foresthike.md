@@ -5,7 +5,7 @@ date:   2024-01-28
 categories: uncategorized
 ---
 <div class="image-with-description">
-    <img src="/assets/images/2024-01-28-rhodos-1.jpg" alt="Image Description">
+    <img src="/assets/images/2024-01-28-rhodos-1.JPG" alt="Image Description">
     <p class="description">A sight well-known to many a Central Appalachian hiker</p>
 </div>
 
@@ -16,7 +16,7 @@ We were pushed off the trail we had been following for the morning after it trie
 After a morning of walking along the footpath well-worn by other hikers, hitting the backcountry is like meeting it with a belly-flop. Smack! Momentum stopped. Where before our movement felt like gliding, soaring smoothly over the sights of the woods like an airplane while our heads floated in the clouds, our movement now requires attention in every movement. The odd shape of our bodies becomes apparent to me: long and rigid appendages, with joints that bend in some directions but not others, held together by a central torso and head that does little of the work of moving but can tell the appendages where to move. I want to be a giant amoeba, nearly liquid, flowing through openings in the branches large and small, not needing to exert myself against wood and thorns but able to leave them alone, to pass through as a mere observer as we had done while hiking on the trail that morning. Our task now is to bring our will to get to the other side of this mountain ridge against an established community of woody plants, woven together as they seem to like, propping up their leaves as high as they can to receive what little sunlight can reach this hollow. Would any single bush have preferred to have been an ornamental plant in some person's yard somewhere, surrounded by grass trimmed low, with as much sunlight as it could ever want? Or does it like to be a member of a crowd?
 
 <div class="image-with-description">
-    <img src="/assets/images/2024-01-28-hike-ice.jpg" alt="Image Description">
+    <img src="/assets/images/2024-01-28-hike-ice.JPG" alt="Image Description">
     <p class="description">Natural ice sculptures: not a swan, but cool enough</p>
 </div>
 
@@ -25,7 +25,7 @@ A half hour goes by, and the little blue dot on my GPS app has hardly moved. Sti
 We find some cool sights along the way. Pillars of ice have formed on the rocky outer creekbank, perfectly clear, like the ice in a whiskey glass. I chuck a chunk of it into the creek. "Chuck a chunk!" I holler, breaking from my usual trail ettiquete of being quiet and not throwing things. There is a striking view of the creek cascading over a drop in the creek bed, and I consider how most people see this waterfall from the trail on the other side of the creek and wonder whose view is better, like the Canadian and American sides of Niagara.
 
 <div class="image-with-description">
-    <img src="/assets/images/2024-01-28-rhodos-2.jpg" alt="Image Description">
+    <img src="/assets/images/2024-01-28-rhodos-2.JPG" alt="Image Description">
     <p class="description">My life for an hour and a half</p>
 </div>
 

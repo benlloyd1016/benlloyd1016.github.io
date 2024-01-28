@@ -6,7 +6,7 @@ categories: uncategorized
 ---
 <div class="image-with-description">
     <img src="/assets/images/2024-01-28-rhodos-1.jpg" alt="Image Description">
-    <p class="description"></p>
+    <p class="description">A sight well-known to many a Central Appalachian hiker</p>
 </div>
 
 "I want to go home!" she huffs, half joking and half serious, as she frees her foot from one rhododendren branch and crawls under the next one. Her pants are wet from crouching in the snow for the last hour as we push through the dense thickets of rhododendren and mountain laurel that separate us from the trail.
@@ -20,7 +20,7 @@ After a morning of walking along the footpath well-worn by other hikers, hitting
     <p class="description">Natural ice sculptures: not a swan, but cool enough</p>
 </div>
 
-A half hour goes by, and the little blue dot on my GPS app has hardly moved. Still, despite my scratched knees and the wet snow sliding into the sides of my shoes, I am having fun. I notice I sometimes get into a flow state where my arms, legs, and head all seem to know exactly where to place themselves to weave my body through the woody maze. My mind sometimes snaps to observing the complexity of these movements and is thankful that they seem to know what to do. My movements are much more complex than when I am walking in a straight line down a sidewalk: arms loosely swaying, thighs lightly lifting my feet back and forth like a pendulum. In the rhododendren, it goes like this: crouch, bend, slither, pivot, extend, pull, crawl, hop, twist. The deliberateness and attention movement here requires feels at times unpleasant, but that feeling of unpleasantness may be only the feeling of having to actually be present.
+A half hour goes by, and the little blue dot on my GPS app has hardly moved. Still, despite my scratched knees and the wet snow packed into the sides of my shoes, I am having fun. I notice I sometimes get into a flow state where my arms, legs, and head all seem to know exactly where to place themselves to weave my body through the woody maze. My mind sometimes snaps to observing the complexity of these movements and is thankful that they seem to know what to do. My movements are much more complex than when I am walking in a straight line down a sidewalk: arms loosely swaying, thighs lightly lifting my feet back and forth like a pendulum. In the rhododendren, it goes like this: crouch, bend, slither, pivot, extend, pull, crawl, hop, twist. The deliberateness and attention movement here requires feels at times unpleasant, but that feeling of unpleasantness may be only the feeling of having to actually be present.
 
 We find some cool sights along the way. Pillars of ice have formed on the rocky outer creekbank, perfectly clear, like the ice in a whiskey glass. I chuck a chunk of it into the creek. "Chuck a chunk!" I holler, breaking from my usual trail ettiquete of being quiet and not throwing things. There is a striking view of the creek cascading over a drop in the creek bed, and I consider how most people see this waterfall from the trail on the other side of the creek and wonder whose view is better, like the Canadian and American sides of Niagara.
 

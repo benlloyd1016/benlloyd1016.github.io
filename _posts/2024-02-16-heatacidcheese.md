@@ -50,9 +50,5 @@ For my paneer, I fried it, then made a sauce of ginger, garlic, spinach, yogurt,
 
 A fun Spring version might be to replace some of the spinach with ramp leaves and the garlic with ramp bulbs.
 
-## Next steps
-
-For my next cheese, I'll be diving into rennet curd cheeses, which make up the majority of the cheese world. I'll start with fresh rennet curd cheese before moving onto my attempts with aged cheeses.
-
 Thanks for reading!
 -Ben

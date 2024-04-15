@@ -7,7 +7,7 @@ categories: cheese
 
 <img src="/assets/images/2024-02-04-withbread2.jpg" alt="Yogurt cheese with bread" style="width: 100%; height: auto;">
 
-Creamy, spreadable, and perfect on a slice of fresh bread with a dollop of tangy jam or a drizzle of honey, yogurt cheese (or "dream cheese" as David Asher appropriately calls it) feels like luxury but is so easy to make.
+Creamy, spreadable, and perfect on a slice of fresh bread with a dollop of tangy jam or a drizzle of honey, yogurt cheese (or "dream cheese" as we have come to call it, credit to cheesemaker David Asher) feels like luxury but is so easy to make.
 
 ## What is a yogurt cheese?
 
@@ -39,6 +39,5 @@ The cheese packs nicely into a 1 cup jar. I am not sure how long it will stay fr
 
 <img src="/assets/images/2024-02-04-withbread1.jpg" alt="Yogurt cheese with bread" style="width: 100%; height: auto;">
 
-## Next time on "Ben is Learning Basic Cheesemaking"
-
-For my next cheese in this series, I'll try out a class of cheeses with acid-formed curds by making paneer. Stay tuned!
+Thanks for reading!
+-Ben

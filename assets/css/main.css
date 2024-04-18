@@ -91,3 +91,11 @@ nav select option {
     font-size: 0.8em; /* Smaller font size for the description */
     margin-top: 5px; /* Space between the image and the description */
 }
+
+/* Additional styling for poetry to set it apart */
+.poetry {
+    white-space: pre-wrap; /* Maintains whitespace formatting */
+    font-family: 'Courier New', monospace; /* Gives a typewriter-like effect */
+    text-align: left; /* Align text to the left for traditional look */
+    margin: 20px 0; /* Adds vertical space around the poetry */
+  }

@@ -24,3 +24,12 @@ As the temperatures warm and the days grow longer, I am getting on my bike more 
 In the kitchen, I have been [making cheeses](/cheese.html)- mostly fresh, with a few blue cheeses aging in the fridge now. Adding flavors to yogurt cheeses has been fun (lemon and chive, orange and cardamom), and fresh mozzarella is next on the list. I have also been baking our breads and learning about new (to me) cuts of meat from our local butcher.
 
 We bought our first house in 2023. In its 118th year, the house is full of quirks, most of them good! I am enjoying working with my hands on small projects around the house and yard.
+
+## *thaw* - a haiku
+Credit John "better than iNaturalist" Burkhart for the the thought.
+
+<div class="poetry">
+soil under winter snow<br>
+indistinguishable mess<br>
+spring flower roots wait
+</div>
